@@ -21,7 +21,6 @@ namespace GofPatterns.Patterns.Behavioral.ChainOfResponsibility
     
     public abstract class Handler<THandleData>:BaseHandler<IHandler<THandleData>>, IHandler<THandleData>
     {
-
         public void Handle(THandleData data)
         {
             if (CanHandleRequest(data))
