@@ -1,4 +1,4 @@
-namespace GofPatterns.Patterns.Behavioral.ChainOfResponsibility
+namespace GofPatterns.Patterns.Behavioral
 {
     public abstract class BaseHandler<THandler>:IBaseHandler<THandler>
     {

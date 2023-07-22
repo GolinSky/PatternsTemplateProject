@@ -1,4 +1,4 @@
-namespace GofPatterns.Patterns.Behavioral.Command
+namespace GofPatterns.Patterns.Behavioral
 {
     public abstract class Invoker:ICommandInvoker
     {
