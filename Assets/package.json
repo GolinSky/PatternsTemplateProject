@@ -1,0 +1,12 @@
+{
+  "name": "com.pancake.patterns",
+  "version": "1.0.0",
+  "displayName": "Patterns",
+  "description": "Patterns, examples and templates",
+  "unity": "2022.3",
+  "author": {
+    "name": "Alex GolinSky",
+    "email": "golinsky97@gmail.com",
+    "url": "https://github.com/GolinSky/PatternsTemplateProject"
+  }
+}
